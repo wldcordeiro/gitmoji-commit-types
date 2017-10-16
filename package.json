@@ -6,13 +6,21 @@
   "author": "Wellington Cordeiro <wellington@wellingtoncordeiro.com>",
   "license": "MIT",
   "devDependencies": {
+    "commitizen": "^2.9.6",
+    "cz-gitmoji-changelog": "^1.0.0",
     "json": "^9.0.6"
   },
   "scripts": {
+    "commit": "git-cz",
     "test": "json -f index.json"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/wldcordeiro/gitmoji-commit-types"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-gitmoji-changelog"
+    }
   }
 }

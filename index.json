@@ -149,6 +149,9 @@
     },
     "👥": {
       "description": "Add contributor(s)."
+    },
+    "🚸": {
+      "description": "Improving user experience / usability."
     }
   }
 }
