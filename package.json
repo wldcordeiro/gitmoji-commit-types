@@ -7,11 +7,13 @@
   "license": "MIT",
   "devDependencies": {
     "commitizen": "^2.9.6",
-    "cz-gitmoji-changelog": "^1.0.0",
-    "json": "^9.0.6"
+    "cz-gitmoji-changelog": "^1.0.1",
+    "json": "^9.0.6",
+    "semantic-release": "^8.2.0"
   },
   "scripts": {
     "commit": "git-cz",
+    "semantic-release": "semantic-release pre && yarn publish && semantic-release post",
     "test": "json -f index.json"
   },
   "repository": {
