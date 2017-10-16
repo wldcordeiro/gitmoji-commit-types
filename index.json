@@ -1,0 +1,154 @@
+{
+  "types": {
+    "🎨": {
+      "description": "Improving structure / format of the code."
+    },
+    "⚡": {
+      "description": "Improving performance."
+    },
+    "🔥": {
+      "description": "Removing code or files."
+    },
+    "🐛": {
+      "description": "Fixing a bug."
+    },
+    "🚑": {
+      "description": "Critical hotfix."
+    },
+    "✨": {
+      "description": "Introducing new features."
+    },
+    "📝": {
+      "description": "Writing docs."
+    },
+    "🚀": {
+      "description": "Deploying stuff."
+    },
+    "💄": {
+      "description": "Updating the UI and style files."
+    },
+    "🎉": {
+      "description": "Initial commit."
+    },
+    "✅": {
+      "description": "Adding tests."
+    },
+    "🔒": {
+      "description": "Fixing security issues."
+    },
+    "🍎": {
+      "description": "Fixing something on macOS."
+    },
+    "🐧": {
+      "description": "Fixing something on Linux."
+    },
+    "🏁": {
+      "description": "Fixing something on Windows."
+    },
+    "🤖": {
+      "description": "Fixing something on Android."
+    },
+    "🍏": {
+      "description": "Fixing something on iOS."
+    },
+    "🔖": {
+      "description": "Releasing / Version tags."
+    },
+    "🚨": {
+      "description": "Removing linter warnings."
+    },
+    "🚧": {
+      "description": "Work in progress."
+    },
+    "💚": {
+      "description": "Fixing CI Build."
+    },
+    "⬇️": {
+      "description": "Downgrading dependencies."
+    },
+    "⬆️": {
+      "description": "Upgrading dependencies."
+    },
+    "👷": {
+      "description": "Adding CI build system."
+    },
+    "📈": {
+      "description": "Adding analytics or tracking code."
+    },
+    "🔨": {
+      "description": "Refactoring code."
+    },
+    "➖": {
+      "description": "Removing a dependency."
+    },
+    "➕": {
+      "description": "Adding a dependency."
+    },
+    "🐳": {
+      "description": "Work about Docker."
+    },
+    "🔧": {
+      "description": "Changing configuration files."
+    },
+    "🌐": {
+      "description": "Internationalization and localization."
+    },
+    "✏️": {
+      "description": "Fixing typos."
+    },
+    "💩": {
+      "description": "Writing bad code that needs to be improved."
+    },
+    "⏪": {
+      "description": "Reverting changes."
+    },
+    "🔀": {
+      "description": "Merging branches."
+    },
+    "📦": {
+      "description": "Updating compiled files or packages."
+    },
+    "👽": {
+      "description": "Updating code due to external API changes."
+    },
+    "🚚": {
+      "description": "Moving or renaming files."
+    },
+    "📄": {
+      "description": "Adding or updating license."
+    },
+    "💥": {
+      "description": "Introducing breaking changes."
+    },
+    "🍱": {
+      "description": "Adding or updating assets."
+    },
+    "👌": {
+      "description": "Updating code due to code review changes."
+    },
+    "♿": {
+      "description": "Improving accessibility."
+    },
+    "💡": {
+      "description": "Documenting source code."
+    },
+    "🍻": {
+      "description": "Writing code drunkenly."
+    },
+    "💬": {
+      "description": "Updating text and literals."
+    },
+    "🗃": {
+      "description": "Performing database related changes."
+    },
+    "🔊": {
+      "description": "Adding logs."
+    },
+    "🔇": {
+      "description": "Removing logs."
+    },
+    "👥": {
+      "description": "Add contributor(s)."
+    }
+  }
+}
