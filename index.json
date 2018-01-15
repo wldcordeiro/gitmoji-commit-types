@@ -69,13 +69,16 @@
     "⬆️": {
       "description": "Upgrading dependencies."
     },
+    "📌": {
+      "description": "Upgrading dependencies."
+    },
     "👷": {
       "description": "Adding CI build system."
     },
     "📈": {
       "description": "Adding analytics or tracking code."
     },
-    "🔨": {
+    "♻️": {
       "description": "Refactoring code."
     },
     "➖": {
@@ -152,6 +155,15 @@
     },
     "🚸": {
       "description": "Improving user experience / usability."
+    },
+    "🏗": {
+      "description": "Making architectural changes.",
+    },
+    "📱": {
+      "description": "Working on responsive design.",
+    },
+    "🤡": {
+      "description": "Mocking things.",
     }
   }
 }
